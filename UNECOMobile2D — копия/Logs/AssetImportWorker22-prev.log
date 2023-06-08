@@ -1,0 +1,316 @@
+Using pre-set license
+Built from '2022.2/staging' branch; Version is '2022.2.18f1 (5ebc6493a86f) revision 6208612'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ru' Physical Memory: 16302 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.2.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker22
+-projectPath
+C:/Users/FeedMashina/Desktop/PAPKA/UNECOMobile2D — копия
+-logFile
+Logs/AssetImportWorker22.log
+-srvPort
+60423
+Successfully changed project path to: C:/Users/FeedMashina/Desktop/PAPKA/UNECOMobile2D — копия
+C:/Users/FeedMashina/Desktop/PAPKA/UNECOMobile2D — копия
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [24448] Host "[IP] 192.168.0.22 [Port] 0 [Flags] 2 [Guid] 3086422702 [EditorId] 3086422702 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-81GNIS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [24448] Host "[IP] 192.168.0.22 [Port] 0 [Flags] 2 [Guid] 3086422702 [EditorId] 3086422702 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-81GNIS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 117.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.2.18f1 (5ebc6493a86f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.2.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/FeedMashina/Desktop/PAPKA/UNECOMobile2D — копия/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
+    Vendor:   NVIDIA
+    VRAM:     8019 MB
+    Driver:   31.0.15.3179
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.2.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.2.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.2.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.18f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011935 seconds.
+- Loaded All Assemblies, in  0.688 seconds
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 356 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.719 seconds
+Domain Reload Profiling:
+	ReloadAssembly (381ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		LoadAllAssembliesAndSetupDomain (0ms)
+			LoadAssemblies (112ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (299ms)
+				TypeCache.Initialize (298ms)
+					TypeCache.ScanAssembly (295ms)
+				ResolveRequiredComponents (0ms)
+		FinalizeReload (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (0ms)
+			SetupLoadedEditorAssemblies (660ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (503ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (103ms)
+				ProcessInitializeOnLoadMethodAttributes (48ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\FeedMashina\Desktop\PAPKA\UNECOMobile2D — копия\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\FeedMashina\Desktop\PAPKA\UNECOMobile2D — копия\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.933 seconds
+Refreshing native plugins compatible for Editor in 7.56 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.668 seconds
+Domain Reload Profiling:
+	ReloadAssembly (263ms)
+		BeginReloadAssembly (163ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		LoadAllAssembliesAndSetupDomain (666ms)
+			LoadAssemblies (395ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (354ms)
+				TypeCache.Initialize (322ms)
+					TypeCache.ScanAssembly (313ms)
+				ResolveRequiredComponents (5ms)
+		FinalizeReload (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (0ms)
+			SetupLoadedEditorAssemblies (480ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (39ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (89ms)
+				ProcessInitializeOnLoadAttributes (303ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 15.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4352 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 80 unused Assets / (79.2 KB). Loaded Objects now: 4804.
+Memory consumption went from 142.2 MB to 142.1 MB.
+Total: 8.860300 ms (FindLiveObjects: 1.114100 ms CreateObjectMapping: 0.814100 ms MarkObjects: 6.601600 ms  DeleteObjects: 0.328000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 139550.597257 seconds.
+  path: Assets/Quests/Модельки/Игорь основа
+  artifactKey: Guid(1a7793785c6f5cd4798cde3ddaf7dc0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/Игорь основа using Guid(1a7793785c6f5cd4798cde3ddaf7dc0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afff07cc660ab90065f4e704f7437c0') in 0.001974 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.110656 seconds.
+  path: Assets/Quests/Модельки/Игорь основа/NPC.tif
+  artifactKey: Guid(3f2da4ecac4812c4097e56254266e84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/Игорь основа/NPC.tif using Guid(3f2da4ecac4812c4097e56254266e84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6bac1fa5950e22f53d26e0956ef98d8') in 0.201788 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.131347 seconds.
+  path: Assets/Quests/Модельки/Мусор
+  artifactKey: Guid(1e0362a66497c504c901486ea809d558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/Мусор using Guid(1e0362a66497c504c901486ea809d558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '986c0088de1859cd89a17f587551bb0c') in 0.000495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.030121 seconds.
+  path: Assets/Quests/Модельки/Мусор/банка кола.png
+  artifactKey: Guid(27a4f244bc0fa3f45aecb1b3ba8bea79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/Мусор/банка кола.png using Guid(27a4f244bc0fa3f45aecb1b3ba8bea79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275ca5eff5d8f99e98a53a261ed8e064') in 0.051619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.610568 seconds.
+  path: Assets/Quests/Модельки/Игорь основа 1
+  artifactKey: Guid(9a8a6c3c779b7c5408d2929c2f4bcfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/Игорь основа 1 using Guid(9a8a6c3c779b7c5408d2929c2f4bcfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b3084be9fdd144ca661eb1f6e708e3') in 0.000621 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.032343 seconds.
+  path: Assets/Quests/Модельки/Игорь основа 1/NPC игорь голова.png
+  artifactKey: Guid(91e239684d825424bb5a846b7c2da997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/Игорь основа 1/NPC игорь голова.png using Guid(91e239684d825424bb5a846b7c2da997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8668712a399ce18e83554bc0e3351096') in 0.094515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.930284 seconds.
+  path: Assets/Quests/Модельки/бар 2 лесбухи
+  artifactKey: Guid(209a5551113867a4c9f5468f4ddfe14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/бар 2 лесбухи using Guid(209a5551113867a4c9f5468f4ddfe14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b87d1d43ec7b70c550a128da92b472') in 0.000551 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.038497 seconds.
+  path: Assets/Quests/Модельки/бар 2 лесбухи/лоад бар 0%.png
+  artifactKey: Guid(e9dd0ec4cf07a0e4e84c47decefd2606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/бар 2 лесбухи/лоад бар 0%.png using Guid(e9dd0ec4cf07a0e4e84c47decefd2606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d54994bc8860f762ce0bc976d33ddc7') in 0.027255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.186172 seconds.
+  path: Assets/Quests/Модельки/мусор 1
+  artifactKey: Guid(cfb9b0e791c71b34ab7820c960474e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/мусор 1 using Guid(cfb9b0e791c71b34ab7820c960474e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9cb0bf055ddbf4add5f0356d99b2afe') in 0.000971 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.051933 seconds.
+  path: Assets/Quests/Модельки/мусор 1/банка кола.png
+  artifactKey: Guid(b4f604d31e95e534b8bbb7dc4f3736fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/мусор 1/банка кола.png using Guid(b4f604d31e95e534b8bbb7dc4f3736fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da292d6be048aebfd61beecf01bfd64d') in 0.027328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.236388 seconds.
+  path: Assets/Quests/Модельки/медведь/bb6c9b9e-6ab7-4676-b9c9-6f696e7e8d2d.png
+  artifactKey: Guid(30b5ac892e1308c40a2c868f45d32e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/медведь/bb6c9b9e-6ab7-4676-b9c9-6f696e7e8d2d.png using Guid(30b5ac892e1308c40a2c868f45d32e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2bb19e13020ad58c6da5bc1cee66ba') in 0.020225 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.004201 seconds.
+  path: Assets/Quests/Модельки/медведь/зад лев пятка.png
+  artifactKey: Guid(3622531affb0e9249865b21a65c6ba2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/медведь/зад лев пятка.png using Guid(3622531affb0e9249865b21a65c6ba2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f353ac6004e0f7a0814a45d68c8fa36') in 0.021344 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.005039 seconds.
+  path: Assets/Quests/Модельки/медведь/перед лев голень.png
+  artifactKey: Guid(02f335412d0f98149bdd8cf9ef99cc45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/медведь/перед лев голень.png using Guid(02f335412d0f98149bdd8cf9ef99cc45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c6c866a2a28a99ae86a79d23cbefdb3') in 0.022787 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.006776 seconds.
+  path: Assets/Quests/Модельки/медведь/перед прав пятка.png
+  artifactKey: Guid(ba010df80ddd3db4da6c65486aef3aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/медведь/перед прав пятка.png using Guid(ba010df80ddd3db4da6c65486aef3aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2f2dbc01600ad87e6883058f2dfc84') in 0.024453 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 7.077562 seconds.
+  path: Assets/Quests/Модельки/инструменты
+  artifactKey: Guid(9991b16e0b1e29448b4e8188f771b041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/инструменты using Guid(9991b16e0b1e29448b4e8188f771b041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f0bcfd80207d7af39d92dc751bdc0e') in 0.000578 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.017345 seconds.
+  path: Assets/Quests/Модельки/инструменты/грабли.png
+  artifactKey: Guid(09884e749e88ff049ade77f91e6dc04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quests/Модельки/инструменты/грабли.png using Guid(09884e749e88ff049ade77f91e6dc04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d1af99b3160709e072c84cff74fd64') in 0.022754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: �������� �����/������ ���� �������� ��-�� ���������� ������ ������ ��� �� ������� ����������.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
